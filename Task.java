@@ -1,3 +1,16 @@
+/**
+
+Task : 
+Given an integer, , print its first  multiples. Each multiple  (where ) should be printed on a new line in the form: N x i = result.
+
+Input Format :
+A single integer, N.
+
+Output Format :
+Print 10 lines of output; each line  (where 1<=N<=10) contains the  of N x i in the form:
+N x i = result.
+
+*/
 
 import java.util.Scanner;
 
